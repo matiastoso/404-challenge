@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">My Gallery Challenge</h1>
+<h1 align="center">404 Not Found Challenge</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://responsive-gallery-layout.netlify.app/">
+    <a href="https://pagina-no-encontrada.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/solutions/q7mbQkXspuswmpNPbmgS">
+    <a href="https://devchallenges.io/solutions/OhAnogJtVmdAgIF3d3PX">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/gcbWLxG6wdennelX7b8I">
+    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
       Challenge
     </a>
   </h3>
@@ -36,18 +36,17 @@
 
 ![screenshot](images/preview.jpg)
 
-In the screenshot you can see the final rusult. Here is the [demo](https://devchallenges.io/solutions/q7mbQkXspuswmpNPbmgS). This was my first proyect from [DevChallenge](https://devchallenges.io/). I enjoy while I was building it and I learned some things. For example, I had some problems with the picture of a lamp but I used Photoshop to fix it. Also I improved my CSS skills because I used CSS grid and CSS flexbox.
-
+In the screenshot you can see the final rusult. Here is the [demo](https://devchallenges.io/solutions/q7mbQkXspuswmpNPbmgS). This was my second proyect from [DevChallenge](https://devchallenges.io/). This proyect was very easy. I made it on less than 1 hour.
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
+- [Bootstrap](https://getbootstrap.com/)
 - HTML
-- Grid
 - Flexbox
 
 ## Contact
 
 - Website [Portfolio](https://matiastoso.github.io/)
 - GitHub [@matiastoso](https://github.com/matiastoso/)
-- Instagram [@matuu_nashiito](https://www.instagram.com/matuu_tosoo/)
+- Instagram [@matiastoso](https://www.instagram.com/matiastoso)
